@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-shop/static/css/main.90d83d7a.chunk.css",
+    "main.js": "/react-shop/static/js/main.3cb7a4c2.chunk.js",
+    "main.js.map": "/react-shop/static/js/main.3cb7a4c2.chunk.js.map",
+    "runtime-main.js": "/react-shop/static/js/runtime-main.4b04d692.js",
+    "runtime-main.js.map": "/react-shop/static/js/runtime-main.4b04d692.js.map",
+    "static/js/2.1f0a07e8.chunk.js": "/react-shop/static/js/2.1f0a07e8.chunk.js",
+    "static/js/2.1f0a07e8.chunk.js.map": "/react-shop/static/js/2.1f0a07e8.chunk.js.map",
+    "index.html": "/react-shop/index.html",
+    "static/css/main.90d83d7a.chunk.css.map": "/react-shop/static/css/main.90d83d7a.chunk.css.map",
+    "static/js/2.1f0a07e8.chunk.js.LICENSE.txt": "/react-shop/static/js/2.1f0a07e8.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react-shop/static/media/TTNormsPro-Regular.286accc2.ttf",
+    "static/media/builds.97d8de1e.png": "/react-shop/static/media/builds.97d8de1e.png",
+    "static/media/internet.8910b47b.png": "/react-shop/static/media/internet.8910b47b.png",
+    "static/media/iphon1.4e271ec6.png": "/react-shop/static/media/iphon1.4e271ec6.png",
+    "static/media/iphon2.f9c9ee95.png": "/react-shop/static/media/iphon2.f9c9ee95.png",
+    "static/media/iphon3.6af46cc0.png": "/react-shop/static/media/iphon3.6af46cc0.png",
+    "static/media/iphon4.aeca7347.png": "/react-shop/static/media/iphon4.aeca7347.png",
+    "static/media/iphon5.6640038b.png": "/react-shop/static/media/iphon5.6640038b.png",
+    "static/media/iphon6.02af6770.png": "/react-shop/static/media/iphon6.02af6770.png",
+    "static/media/mi1.7623d8a1.png": "/react-shop/static/media/mi1.7623d8a1.png",
+    "static/media/mi2.c1faebff.png": "/react-shop/static/media/mi2.c1faebff.png",
+    "static/media/mi3.06527ba5.png": "/react-shop/static/media/mi3.06527ba5.png",
+    "static/media/mi4.4c1aa365.png": "/react-shop/static/media/mi4.4c1aa365.png",
+    "static/media/mi5.4a1f826c.png": "/react-shop/static/media/mi5.4a1f826c.png",
+    "static/media/mi6.3200e1e8.png": "/react-shop/static/media/mi6.3200e1e8.png",
+    "static/media/phones.cf47df05.png": "/react-shop/static/media/phones.cf47df05.png",
+    "static/media/porfume.8deb925f.png": "/react-shop/static/media/porfume.8deb925f.png",
+    "static/media/short.822fa5f4.png": "/react-shop/static/media/short.822fa5f4.png",
+    "static/media/sofa.cd3c6f55.png": "/react-shop/static/media/sofa.cd3c6f55.png",
+    "static/media/toys.f034cfce.png": "/react-shop/static/media/toys.f034cfce.png",
+    "static/media/washing.b44261ef.png": "/react-shop/static/media/washing.b44261ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b04d692.js",
+    "static/js/2.1f0a07e8.chunk.js",
+    "static/css/main.90d83d7a.chunk.css",
+    "static/js/main.3cb7a4c2.chunk.js"
+  ]
+}
