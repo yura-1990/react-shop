@@ -1,0 +1,10 @@
+@import './sass/layout/fonts';
+@import './sass/layout/root';
+@import './sass/components/_header.scss';
+@import './sass/components/_shop.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
